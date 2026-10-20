@@ -1,8 +1,8 @@
-# Privacy Policy — Leer Afrikaans
+# Privacy Policy — RIA
 
 **Effective date:** 20 October 2026
 
-Leer Afrikaans ("the app") is an Afrikaans phonics and reading app for children, developed by Garth Fransman ("we", "us"). This policy explains what information the app handles. The short version: **we do not collect, transmit, or share any personal information.**
+RIA (short for "Reis in Afrikaans", "the app") is an Afrikaans phonics and reading app for children, developed by Garth Fransman ("we", "us"). This policy explains what information the app handles. The short version: **we do not collect, transmit, or share any personal information.**
 
 ## Information we collect
 
